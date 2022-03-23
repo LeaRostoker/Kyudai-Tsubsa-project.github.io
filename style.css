@@ -186,7 +186,16 @@ ul{
     flex: 1;
 }
 
+/*Members*/
 
+.member-card{
+    display: flex;
+}
+
+.member-text{
+    padding-top: 50px;
+    padding-left: 50px;
+}
 
 /*Welcome in home page*/
 
