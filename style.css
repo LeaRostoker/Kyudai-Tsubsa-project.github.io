@@ -132,8 +132,8 @@ ul{
 
 .main-content{
     background-color: #FFFFFF;
-    padding-left: 60px;
-    padding-right: 60px;
+    padding-left: 50px;
+    padding-right: 50px;
     padding-top: 60px;
     padding-bottom: 40px;
 }
@@ -167,19 +167,19 @@ ul{
     margin-bottom: 20px;
 }
 
-.has-margin-right{
-    margin-right: 2rem;
-}
-
 .chapter-item{
     display: flex;
-    align-items: center;
-    justify-content: center;
     margin-bottom: 2rem;
 }
 
 .chapter-item:last-child{
     margin-bottom: 0;
+    align-items: center;
+    justify-content: center;
+}
+
+.chapter-video{
+    margin-right: 40px;
 }
 
 .portfolio-img{
