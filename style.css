@@ -71,6 +71,14 @@ ul{
     text-decoration: none;
 }
 
+.github-link{
+    text-align: center;
+    padding-left: 10px;
+    padding-top: 10px;
+    width: 27px;
+    height: 27px;
+}
+
 .mail-icon{
     float: right;
     display: block;
